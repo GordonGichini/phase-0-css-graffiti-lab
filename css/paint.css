@@ -47,7 +47,6 @@ div#wall #tag-3.slick {
   z-index: 4;
   display: block;
 }
-
 div#wall .parent #tag-5.slick {
   background: url(../images/tag-5.png) no-repeat;
   z-index: 3;
@@ -59,6 +58,7 @@ div#wall div.parent div:last-child div#tag-6 {
   z-index: 2;
   display: block;
 }
+
 
 body div#wall div.parent div > #tag-7.slick {
   background: url(../images/tag-7.png) no-repeat;
